@@ -1,0 +1,20 @@
+{
+  "name": "large-db-table-to-excel-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "etl": "^0.7.0",
+    "exceljs": "^4.3.0",
+    "knex": "^2.4.2",
+    "pg": "^8.11.0",
+    "pg-query-stream": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
